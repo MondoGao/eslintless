@@ -1,6 +1,6 @@
 {
   "name": "eslintless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto add eslint inline comment. Bye-bye eslint errors!",
   "main": "index.js",
   "bin": "./bin/eslintless",
@@ -25,7 +25,7 @@
     "ramda": "^0.24.1"
   },
   "peerDependencies": {
-    "eslint": "*"
+    "eslint": ">2"
   },
   "devDependencies": {
     "eslint": "^4.3.0",
