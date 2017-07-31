@@ -1,5 +1,5 @@
 {
-  "name": "eslintless",
+  "name": "@mtfe/eslintless",
   "version": "1.0.1",
   "description": "Auto add eslint inline comment. Bye-bye eslint errors!",
   "main": "index.js",
