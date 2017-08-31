@@ -1,6 +1,6 @@
 {
-  "name": "@mtfe/eslintless",
-  "version": "1.0.1",
+  "name": "eslintless",
+  "version": "1.0.2",
   "description": "Auto add eslint inline comment. Bye-bye eslint errors!",
   "main": "index.js",
   "bin": "./bin/eslintless",
