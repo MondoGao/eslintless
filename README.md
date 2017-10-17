@@ -22,4 +22,4 @@ Choose `delete`, eslintless will look for `.eslint_update.log.json`, and delete 
 
 ## Contributor
 
-jianggaohua <jianggaohua@meituan.com>
+Mondo Gao <mondogao@gmail.com>
